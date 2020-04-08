@@ -5,4 +5,4 @@ I create software, products and tools.
 I study Computer Science at Michigan State University.
 
 ## Work
-I work with companies to expand their business, brand and influence online. I help by finding new ways to improve services and provide more value to customers
+I work with a handful companies to help expand their business, brand and influence online. I take the role of both a practicioner and adviser, where I uncover new ways of improving their services and providing value to their customers.
