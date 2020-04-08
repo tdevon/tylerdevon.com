@@ -1,3 +1,3 @@
 ## Hi, my name is Tyler Devon
-I create software, products and resources for the web.
-Currently, I study Computer Science at Michigan State University.
+I make software, products and tools.
+Currently, I'm studing Computer Science at Michigan State University.
