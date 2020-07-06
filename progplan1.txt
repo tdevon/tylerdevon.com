@@ -1,0 +1,11 @@
+PYTHON PROJECTS
+===============
+1. Text Editior
+2. Text to html generator
+3. Journal Application
+
+https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list
+
+
+1. Touch up on python - go over documentation, watch tutorials, do hackerrank, etc.
+
